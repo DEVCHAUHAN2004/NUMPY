@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
  
 # 🚀 NumPy Mastery   
 ### 📚 Learn NumPy from Basics to Advanced with Python
