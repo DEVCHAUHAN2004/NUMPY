@@ -1,6 +1,6 @@
 <div align="center">
  
-# 🚀 NumPy Mastery  
+# 🚀 NumPy Mastery   
 ### 📚 Learn NumPy from Basics to Advanced with Python
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Welcome+to+NumPy+Mastery!;Learn+NumPy+Step+by+Step;Python+%7C+Data+Science+%7C+Machine+Learning" alt="Typing SVG" />
